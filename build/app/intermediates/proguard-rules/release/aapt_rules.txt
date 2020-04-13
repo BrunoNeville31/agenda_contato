@@ -1,0 +1,10 @@
+# Referenced at /home/bruno/Área de Trabalho/agenda_contato/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:20
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/bruno/Área de Trabalho/agenda_contato/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:25
+-keep class com.example.agenda_contato.MainActivity { <init>(); }
+# Referenced at /home/bruno/Área de Trabalho/agenda_contato/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:20
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at /home/bruno/Área de Trabalho/agenda_contato/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:46
+-keep class io.flutter.plugins.imagepicker.ImagePickerFileProvider { <init>(); }
+# Referenced at /home/bruno/Área de Trabalho/agenda_contato/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:56
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
